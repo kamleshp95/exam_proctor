@@ -1,8 +1,6 @@
-# EMS - Examination Management System
+# EMS - Exam Proctor
 
-This Examination Portal is made up on top of MERN stack. EMS supports both web and mobile.
-
-EMS is an examination portal for educational insititutions which will help them to take test & communicate remotely with students in this quarantine period.
+This Examination Proctor is made up on top of MERN stack.
 
 Features of EMS:
 
@@ -106,7 +104,6 @@ Now go to the client Side
 
 ```sh
 $ cd client
-$ cd esm-client
 $ npm install
 ```
 
